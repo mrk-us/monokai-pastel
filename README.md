@@ -1,6 +1,6 @@
 # monokai-pastel
 Dark pastel theme for Brackets. Based on the Dark Soda and Monokai color schemes.
 
-![Screenshot](screenshot01.png")
+![Screenshot](https://github.com/rnarrkus/monokai-pastel/blob/master/Screenshot01.png)
 
-![Screenshot](screenshot02.png")
+![Screenshot](https://github.com/rnarrkus/monokai-pastel/blob/master/Screenshot02.png)
